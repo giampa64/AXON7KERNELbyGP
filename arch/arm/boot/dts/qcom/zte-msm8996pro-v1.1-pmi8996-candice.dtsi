@@ -1,0 +1,4 @@
+
+#include "zte-camera-sensor-dual.dtsi"
+
+#include "touch-key-backlight-candice.dtsi"
