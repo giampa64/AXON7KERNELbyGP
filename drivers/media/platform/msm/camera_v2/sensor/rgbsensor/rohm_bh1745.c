@@ -29,7 +29,7 @@
 #include <linux/ioctl.h>
 #include <linux/miscdevice.h>
 #include <linux/uaccess.h>
-#include <rohm_bh1745.h>
+#include "rohm_bh1745.h"
 #include <linux/regulator/consumer.h>
 #include <linux/of_gpio.h>
 #include <linux/wakelock.h>

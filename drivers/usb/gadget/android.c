@@ -34,7 +34,7 @@
 
 #include <linux/qcom/diag_dload.h>
 
-#include "gadget_chips.h"
+#include </home/giampa64/android/AXON7KERNELbyGP/drivers/usb/gadget/udc/gadget_chips.h>
 
 #include <linux/syscalls.h>
 #ifdef CONFIG_MEDIA_SUPPORT

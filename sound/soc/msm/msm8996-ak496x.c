@@ -31,7 +31,7 @@
 #include <sound/q6core.h>
 #include <sound/pcm_params.h>
 #include <sound/info.h>
-#include <device_event.h>
+#include "device_event.h"
 #include "qdsp6v2/msm-pcm-routing-v2.h"
 /* #include "linux/mfd/ak49xx/ak4962_registers.h" */
 #ifdef CONFIG_AK4961_CODEC

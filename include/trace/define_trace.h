@@ -69,6 +69,7 @@
 #endif
 
 #ifndef TRACE_INCLUDE_PATH
+#define TRACE_INCLUDE_PATH /home/giampa64/android/AXON7KERNELbyGP/include/trace
 # define __TRACE_INCLUDE(system) <trace/events/system.h>
 # define UNDEF_TRACE_INCLUDE_PATH
 #else

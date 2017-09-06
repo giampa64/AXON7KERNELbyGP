@@ -32,7 +32,7 @@
 #include <linux/usb/audio.h>
 #include <linux/usb/midi.h>
 
-#include "u_f.h"
+#include </home/giampa64/android/AXON7KERNELbyGP/drivers/usb/gadget/u_f.h>
 
 MODULE_AUTHOR("Ben Williamson");
 MODULE_LICENSE("GPL v2");

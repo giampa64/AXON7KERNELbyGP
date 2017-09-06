@@ -37,7 +37,7 @@
 #include <linux/pm.h>
 #include <linux/of.h>
 #include <linux/ipc_logging.h>
-#include <../soc/qcom/smd_private.h>/*ZTE add*/
+#include </home/giampa64/android/AXON7KERNELbyGP/drivers/soc/qcom/smd_private.h>/*ZTE add*/
 
 #define MODULE_NAME "msm_smdpkt"
 #define DEVICE_NAME "smdpkt"
